@@ -6,4 +6,5 @@ This repository serves as the codebase for the final project by authors Asim and
 The order of the codebase is as follows:
 1. IntroToDiffusion
 2. StableDiffusionDeepExploration
-3. 
+3. SD Training 
+4. Demo 
